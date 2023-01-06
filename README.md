@@ -5,9 +5,9 @@
 [![Blog](https://img.shields.io/website?label=KaioVeras.com&style=for-the-badge&url=https://sujeitoprogramador.com/)]()
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kaiovitorpv)
 
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaioVeras&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KaioVeras&show_icons=true&count_private=true&hide_border=true&title_color=539BEE&icon_color=164081&text_color=C2D0D8&bg_color=0D1117" alt="Kaio Veras github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioVeras&layout=compact&hide_border=true&title_color=539BEE&text_color=C2D0D8&bg_color=0d1117" />
 </div>
   
 <div style="display: inline_block"><br>
