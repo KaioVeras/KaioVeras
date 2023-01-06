@@ -1,7 +1,6 @@
 
 
 ## Olá! Eu sou o Kaio Veras 👋
-<hr>
 
 [![Blog](https://img.shields.io/website?label=KaioVeras.com&style=for-the-badge&url=https://sujeitoprogramador.com/)]()
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kaiovitorpv)
