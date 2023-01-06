@@ -10,7 +10,9 @@
 <br/>
 <br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kaiovitorpv)
+<div>
+  <a href="https://instagram.com/kaiovitorpv" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> <a/>
+<div/>
    
  ## Tecnologias que uso no dia
   
