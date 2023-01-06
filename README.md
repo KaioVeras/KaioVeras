@@ -4,7 +4,7 @@
 
 ![Kaio GitHub stats](https://github-readme-stats.vercel.app/api?username=KaioVeras&show_icons=true&theme=dracula) 
  <img
-    height="195cm" width="500cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioVeras&layout=compact&langs_count=16&theme=dracula"
+    height="195cm" width="600cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioVeras&layout=compact&langs_count=16&theme=dracula"
  />
 
 
