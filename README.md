@@ -11,7 +11,7 @@
 <br/>
 
 <div>
-  <a href="https://instagram.com/kaiovitorpv"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/> <a/>
+  <a href="https://instagram.com/kaiovitorpv"> <img target="_blank" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> <a/>
 <div/>
    
  ## Tecnologias que uso no dia
