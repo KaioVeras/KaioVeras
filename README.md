@@ -5,12 +5,6 @@
 
 <br>
 
-<div align="center" >
-  <img width="49%" heigth="195px" src="https://github-readme-stats.vercel.app/api?username=KaioVeras&show_icons=true&count_private=true&hide_border=true&title_color=143C8C&icon_color=143C8C&text_color=c9d1d9&bg_color=0d1117" alt="Stats Kaio Veras" />
-
-  <img width="41%" heigth="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioVeras&layout=compact&hide_border=true&title_color=143C8C&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens utilizadas" />
-</div>
-
 <br>
 
 <div align="center" >
