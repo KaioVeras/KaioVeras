@@ -1,3 +1,1 @@
 ## Kaio Veras
-
-## Programador FullStack
