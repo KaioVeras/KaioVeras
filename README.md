@@ -17,7 +17,6 @@ Me chamo Kaio Veras, tenho 18 anos e sou natural de Brasília. Estou cursando En
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,firebase,react,)](https://skillicons.dev)
 
 <br/>
-<br/>
 
 ## 📊 Estatísticas
 
