@@ -33,5 +33,5 @@ Me chamo Kaio Veras, tenho 18 anos e sou natural de Brasília. Estou cursando En
     alt="GitHub Stats"
     height="200px"
     style="padding-right: 10px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioVeras&theme=github_dark_dimmed&title=Tecnologias"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioVeras&theme=github_dark_dimmed&custom_title=Tecnologias&langs_count=7"
 />
