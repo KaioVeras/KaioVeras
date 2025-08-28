@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Kaio Veras
 
-**`Desenvolvedor FrontEnd`**
+**`Engenheiro de Software`**
 
 Me chamo Kaio Veras, tenho 18 anos e sou natural de Brasília. Estou cursando Engenharia de Software na [UCB](https://ucb.catolica.edu.br/). Desde cedo, sempre tive um grande interesse por tecnologia e inovação. Estou constantemente em busca de aprender novas tecnologias e aprimorar minhas habilidades. Gosto de desenvolver projetos, explorar ideias criativas e criar soluções que possam impactar positivamente a vida das pessoas. A tecnologia tem o poder de mudar o mundo, e quero fazer parte dessa transformação.
 
